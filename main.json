@@ -1,1 +1,8 @@
-Csao jo minden
+{
+ "items":[
+  "1":{
+    "title" : "Első világháboru",
+    "url": "MAATEE/torigyujtemeny/main/1vilaghaboru/handler.json",
+   }
+ ], 
+}
